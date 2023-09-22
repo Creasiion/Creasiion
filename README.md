@@ -1,7 +1,7 @@
 ### Welcome! 👋
 
 
- <img align="center" alt="Coding" width="850" src="https://www.gifcen.com/wp-content/uploads/2022/11/aesthetic-gif-11.gif">
+ <img align="center" alt="Coding" width="800" src="https://www.gifcen.com/wp-content/uploads/2022/11/aesthetic-gif-11.gif">
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
