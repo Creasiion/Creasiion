@@ -1,8 +1,9 @@
-### Hi there 👋
+### Welcome! 👋
 
 
- <img align="center" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2022/11/aesthetic-gif-11.gif">
- 
+ <img align="center" alt="Coding" width="850" src="https://www.gifcen.com/wp-content/uploads/2022/11/aesthetic-gif-11.gif">
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creasiion&show_icons=true&theme=tokyonight" />
 </a>
