@@ -18,7 +18,6 @@ I am a Computer Scientist who aspires to change the world through code!
     </tr>
   </thead>
 </table>
-![](https://github-readme-streak-stats.herokuapp.com/?user=creasiion&theme=nightowl&hide_border=false)<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imanicage) 
