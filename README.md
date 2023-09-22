@@ -3,15 +3,13 @@
 I am a Computer Scientist who aspires to change the world through code!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creasiion&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creasiion&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=creasiion&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=creasiion&layout=compact&langs_count=8&card_width=320&hide_border=true" />
 </a>
 
-<p>
-  
-</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imanicage) 
