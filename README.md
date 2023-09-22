@@ -1,7 +1,7 @@
 ### Welcome! 👋
 
 
-<img align="center" alt="Coding" width="700" src="https://www.gifcen.com/wp-content/uploads/2022/11/aesthetic-gif-11.gif">
+<img align="center" alt="Coding" width="700" src="https://steamuserimages-a.akamaihd.net/ugc/923674991657836086/0FF562A822E06976755111B01200FDAA91033C65/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 I am a Computer Scientist who aspires to change the world through code!
 
