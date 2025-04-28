@@ -7,12 +7,12 @@ I am a Computer Scientist who aspires to change the world through code!
     <tr>
       <th>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creasiion&theme=synthwave&hide_border=true&exclude_repo=Neural_Network_for_Bi_Exp" />
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creasiion&theme=synthwave&hide_border=true" />
         </a>
     </th>
     <th>
       <a href="https://github.com/anuraghazra/convoychat">
-        <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=creasiion&theme=synthwave&layout=compact&langs_count=8&card_width=320&hide_border=true" />
+        <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=creasiion&exclude_repo=Neural_Network_for_Bi_Exp&theme=synthwave&layout=compact&langs_count=8&card_width=320&hide_border=true" />
       </a>
     </th>
     </tr>
