@@ -7,7 +7,7 @@ I am a Computer Scientist who aspires to change the world through code!
     <tr>
       <th>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creasiion&theme=synthwave&hide_border=true" />
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creasiion&theme=synthwave&hide_border=true&exclude_repo=Neural_Network_for_Bi_Exp" />
         </a>
     </th>
     <th>
