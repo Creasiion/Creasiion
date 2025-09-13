@@ -12,7 +12,7 @@ I am a Computer Scientist who aspires to change the world through code!
     </th>
     <th>
       <a href="https://github.com/anuraghazra/convoychat">
-        <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=creasiion&exclude_repo=Neural_Network_for_Bi_Exp&exclude_repo=BTT-Portfolio&theme=synthwave&layout=compact&langs_count=8&card_width=320&hide_border=true" />
+        <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=creasiion&exclude_repo=Neural_Network_for_Bi_Exp,BTT-Portfolio&theme=synthwave&layout=compact&langs_count=8&card_width=320&hide_border=true" />
       </a>
     </th>
     </tr>
